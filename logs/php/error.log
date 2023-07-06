@@ -1,0 +1,268 @@
+[30-Jun-2023 21:45:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\pluggable.php on line 1427
+[30-Jun-2023 21:45:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\pluggable.php on line 1430
+[30-Jun-2023 21:46:00 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 21:46:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\customize.php on line 126
+[30-Jun-2023 21:46:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1156
+[30-Jun-2023 21:46:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1157
+[30-Jun-2023 21:48:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\customize.php on line 126
+[30-Jun-2023 21:48:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1156
+[30-Jun-2023 21:48:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1157
+[30-Jun-2023 21:49:59 UTC] PHP Warning:  Undefined variable $options in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 21:49:59 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 21:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\customize.php on line 126
+[30-Jun-2023 21:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1156
+[30-Jun-2023 21:54:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\master-addons\inc\admin\promotions.php:428) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\option.php on line 1157
+[30-Jun-2023 21:58:47 UTC] PHP Warning:  Undefined variable $options in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 21:58:47 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 21:58:47 UTC] PHP Warning:  Undefined variable $options in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 21:58:47 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2312
+[30-Jun-2023 22:04:26 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:06:02 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:08:50 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:13:06 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:15:13 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:18:12 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:31:21 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[30-Jun-2023 22:50:00 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Jul-2023 10:07:28 UTC] Sync process for Gutenberg Blocks has started.
+[01-Jul-2023 10:07:28 UTC] CATEGORY:Importing categories..
+[01-Jul-2023 10:07:29 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[01-Jul-2023 10:07:29 UTC] CATEGORY:Completed category import.
+[01-Jul-2023 10:07:29 UTC] BLOCK: Getting Total Blocks
+[01-Jul-2023 10:07:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[01-Jul-2023 10:07:29 UTC] BLOCK: Requests count 4
+[01-Jul-2023 10:07:29 UTC] BLOCK: Importing request 1 ..
+[01-Jul-2023 10:07:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[01-Jul-2023 10:07:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[01-Jul-2023 10:07:29 UTC] BLOCK: Completed request 1
+[01-Jul-2023 10:07:29 UTC] BLOCK: Importing request 2 ..
+[01-Jul-2023 10:07:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[01-Jul-2023 10:07:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[01-Jul-2023 10:07:29 UTC] BLOCK: Completed request 2
+[01-Jul-2023 10:07:29 UTC] BLOCK: Importing request 3 ..
+[01-Jul-2023 10:07:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[01-Jul-2023 10:07:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[01-Jul-2023 10:07:29 UTC] BLOCK: Completed request 3
+[01-Jul-2023 10:07:29 UTC] BLOCK: Importing request 4 ..
+[01-Jul-2023 10:07:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[01-Jul-2023 10:07:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[01-Jul-2023 10:07:30 UTC] BLOCK: Completed request 4
+[01-Jul-2023 10:07:30 UTC] SITE: Getting Total Sites
+[01-Jul-2023 10:07:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[01-Jul-2023 10:07:30 UTC] SITE: Request count 2
+[01-Jul-2023 10:07:30 UTC] SITE: Importing request 1 ..
+[01-Jul-2023 10:07:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[01-Jul-2023 10:07:30 UTC] SITE: Storing in option ast-block-templates-sites-1
+[01-Jul-2023 10:07:30 UTC] SITE: Completed request 1
+[01-Jul-2023 10:07:30 UTC] SITE: Importing request 2 ..
+[01-Jul-2023 10:07:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[01-Jul-2023 10:07:30 UTC] SITE: Storing in option ast-block-templates-sites-2
+[01-Jul-2023 10:07:30 UTC] SITE: Completed request 2
+[01-Jul-2023 10:07:30 UTC] Sync process for Gutenberg Blocks is done.
+[01-Jul-2023 17:02:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Jul-2023 21:55:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "cptui__admin_notice" not found or invalid function name in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin-header.php(303): do_action('admin_notices')
+#3 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\Petar\\...')
+#4 {main}
+  thrown in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php on line 308
+[01-Jul-2023 22:48:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 187
+[01-Jul-2023 23:12:38 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:12:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[01-Jul-2023 23:12:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[01-Jul-2023 23:12:39 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:12:39 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:12:39 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:12:40 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:12:40 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:13:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:13:11 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php on line 185
+[01-Jul-2023 23:33:05 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[01-Jul-2023 23:33:18 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[01-Jul-2023 23:37:21 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[01-Jul-2023 23:40:02 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:06:27 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:09:18 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:09:46 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:10:11 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:11:36 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:11:56 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 11:13:09 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[02-Jul-2023 14:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddyforms-ultimate-member\loader.php on line 67
+[02-Jul-2023 14:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddyforms-ultimate-member\loader.php on line 75
+[02-Jul-2023 14:40:16 UTC] PHP Fatal error:  Cannot redeclare change_um_profile_tabs() (previously declared in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php:184) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\my custom plugin\my-custom-plugin.php on line 12
+[02-Jul-2023 14:40:17 UTC] PHP Fatal error:  Cannot redeclare change_um_profile_tabs() (previously declared in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php:184) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\my custom plugin\my-custom-plugin.php on line 12
+[02-Jul-2023 14:40:17 UTC] PHP Fatal error:  Cannot redeclare change_um_profile_tabs() (previously declared in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\themes\astra\functions.php:184) in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\my custom plugin\my-custom-plugin.php on line 12
+[02-Jul-2023 16:37:46 UTC] PHP Warning:  Undefined array key "bp_template_stack" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:37:46 UTC] PHP Warning:  Attempt to read property "callbacks" on null in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:37:46 UTC] PHP Fatal error:  Uncaught TypeError: reset(): Argument #1 ($array) must be of type array, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php:358
+Stack trace:
+#0 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(358): reset(NULL)
+#1 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(174): bp_get_template_stack()
+#2 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2358): bp_locate_template(Array, false)
+#3 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2380): bp_has_custom_signup_page()
+#4 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): bp_get_signup_page('http://rapsodij...')
+#5 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('http://rapsodij...', Array)
+#6 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\general-template.php(483): apply_filters('register_url', 'http://rapsodij...')
+#7 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\config\settings.php(107): wp_registration_url()
+#8 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Plugin.php(125): include('C:\\Users\\Petar\\...')
+#9 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(248): GeminiLabs\SiteReviews\Application->config('settings')
+#10 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(14): GeminiLabs\SiteReviews\Application->settings()
+#11 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(27): GeminiLabs\SiteReviews\Database\DefaultsManager->defaults()
+#12 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(164): GeminiLabs\SiteReviews\Database\DefaultsManager->get()
+#13 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Controllers\MainController.php(55): GeminiLabs\SiteReviews\Application->initDefaults()
+#14 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): GeminiLabs\SiteReviews\Controllers\MainController->initDefaults('')
+#15 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#16 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-settings.php(623): do_action('init')
+#18 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-config.php(103): require_once('C:\\Users\\Petar\\...')
+#19 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-load.php(50): require_once('C:\\Users\\Petar\\...')
+#20 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Petar\\...')
+#21 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Petar\\...')
+#22 {main}
+  thrown in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 358
+[02-Jul-2023 16:38:12 UTC] PHP Warning:  Undefined array key "bp_template_stack" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:38:12 UTC] PHP Warning:  Attempt to read property "callbacks" on null in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:38:12 UTC] PHP Fatal error:  Uncaught TypeError: reset(): Argument #1 ($array) must be of type array, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php:358
+Stack trace:
+#0 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(358): reset(NULL)
+#1 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(174): bp_get_template_stack()
+#2 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2358): bp_locate_template(Array, false)
+#3 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2380): bp_has_custom_signup_page()
+#4 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): bp_get_signup_page('http://rapsodij...')
+#5 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('http://rapsodij...', Array)
+#6 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\general-template.php(483): apply_filters('register_url', 'http://rapsodij...')
+#7 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\config\settings.php(107): wp_registration_url()
+#8 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Plugin.php(125): include('C:\\Users\\Petar\\...')
+#9 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(248): GeminiLabs\SiteReviews\Application->config('settings')
+#10 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(14): GeminiLabs\SiteReviews\Application->settings()
+#11 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(27): GeminiLabs\SiteReviews\Database\DefaultsManager->defaults()
+#12 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(164): GeminiLabs\SiteReviews\Database\DefaultsManager->get()
+#13 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Controllers\MainController.php(55): GeminiLabs\SiteReviews\Application->initDefaults()
+#14 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): GeminiLabs\SiteReviews\Controllers\MainController->initDefaults('')
+#15 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#16 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-settings.php(623): do_action('init')
+#18 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-config.php(103): require_once('C:\\Users\\Petar\\...')
+#19 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-load.php(50): require_once('C:\\Users\\Petar\\...')
+#20 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Petar\\...')
+#21 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Petar\\...')
+#22 {main}
+  thrown in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 358
+[02-Jul-2023 16:39:09 UTC] PHP Warning:  Undefined array key "bp_template_stack" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:39:09 UTC] PHP Warning:  Attempt to read property "callbacks" on null in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:39:09 UTC] PHP Fatal error:  Uncaught TypeError: reset(): Argument #1 ($array) must be of type array, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php:358
+Stack trace:
+#0 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(358): reset(NULL)
+#1 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(174): bp_get_template_stack()
+#2 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2358): bp_locate_template(Array, false)
+#3 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2380): bp_has_custom_signup_page()
+#4 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): bp_get_signup_page('http://rapsodij...')
+#5 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('http://rapsodij...', Array)
+#6 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\general-template.php(483): apply_filters('register_url', 'http://rapsodij...')
+#7 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\config\settings.php(107): wp_registration_url()
+#8 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Plugin.php(125): include('C:\\Users\\Petar\\...')
+#9 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(248): GeminiLabs\SiteReviews\Application->config('settings')
+#10 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(14): GeminiLabs\SiteReviews\Application->settings()
+#11 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(27): GeminiLabs\SiteReviews\Database\DefaultsManager->defaults()
+#12 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(164): GeminiLabs\SiteReviews\Database\DefaultsManager->get()
+#13 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Controllers\MainController.php(55): GeminiLabs\SiteReviews\Application->initDefaults()
+#14 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): GeminiLabs\SiteReviews\Controllers\MainController->initDefaults('')
+#15 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#16 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-settings.php(623): do_action('init')
+#18 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-config.php(103): require_once('C:\\Users\\Petar\\...')
+#19 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-load.php(50): require_once('C:\\Users\\Petar\\...')
+#20 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Petar\\...')
+#21 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Petar\\...')
+#22 {main}
+  thrown in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 358
+[02-Jul-2023 16:39:19 UTC] PHP Warning:  Undefined array key "bp_template_stack" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:39:19 UTC] PHP Warning:  Attempt to read property "callbacks" on null in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 347
+[02-Jul-2023 16:39:19 UTC] PHP Fatal error:  Uncaught TypeError: reset(): Argument #1 ($array) must be of type array, null given in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php:358
+Stack trace:
+#0 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(358): reset(NULL)
+#1 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php(174): bp_get_template_stack()
+#2 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2358): bp_locate_template(Array, false)
+#3 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-members\bp-members-template.php(2380): bp_has_custom_signup_page()
+#4 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): bp_get_signup_page('http://rapsodij...')
+#5 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('http://rapsodij...', Array)
+#6 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\general-template.php(483): apply_filters('register_url', 'http://rapsodij...')
+#7 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\config\settings.php(107): wp_registration_url()
+#8 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Plugin.php(125): include('C:\\Users\\Petar\\...')
+#9 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(248): GeminiLabs\SiteReviews\Application->config('settings')
+#10 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(14): GeminiLabs\SiteReviews\Application->settings()
+#11 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Database\DefaultsManager.php(27): GeminiLabs\SiteReviews\Database\DefaultsManager->defaults()
+#12 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Application.php(164): GeminiLabs\SiteReviews\Database\DefaultsManager->get()
+#13 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\site-reviews\plugin\Controllers\MainController.php(55): GeminiLabs\SiteReviews\Application->initDefaults()
+#14 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(308): GeminiLabs\SiteReviews\Controllers\MainController->initDefaults('')
+#15 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#16 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-settings.php(623): do_action('init')
+#18 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-config.php(103): require_once('C:\\Users\\Petar\\...')
+#19 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-load.php(50): require_once('C:\\Users\\Petar\\...')
+#20 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Petar\\...')
+#21 C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Petar\\...')
+#22 {main}
+  thrown in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\buddypress\bp-core\bp-core-template-loader.php on line 358
+[06-Jul-2023 09:20:03 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:22:35 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:23:31 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:26:17 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:29:22 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:30:15 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 09:31:53 UTC] PHP Warning:  Undefined array key "xpro_elementor_reading_progress_bar_dfx" in C:\Users\Petar\Local Sites\rapsodijaukusa\app\public\wp-content\plugins\xpro-elementor-addons\modules\reading-progress-bar\reading-progress-bar.php on line 243
+[06-Jul-2023 10:00:17 UTC] Sync process for Gutenberg Blocks has started.
+[06-Jul-2023 10:00:17 UTC] CATEGORY:Importing categories..
+[06-Jul-2023 10:00:17 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[06-Jul-2023 10:00:17 UTC] CATEGORY:Completed category import.
+[06-Jul-2023 10:00:17 UTC] BLOCK: Getting Total Blocks
+[06-Jul-2023 10:00:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[06-Jul-2023 10:00:17 UTC] BLOCK: Requests count 4
+[06-Jul-2023 10:00:17 UTC] BLOCK: Importing request 1 ..
+[06-Jul-2023 10:00:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[06-Jul-2023 10:00:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[06-Jul-2023 10:00:18 UTC] BLOCK: Completed request 1
+[06-Jul-2023 10:00:18 UTC] BLOCK: Importing request 2 ..
+[06-Jul-2023 10:00:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[06-Jul-2023 10:00:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[06-Jul-2023 10:00:18 UTC] BLOCK: Completed request 2
+[06-Jul-2023 10:00:18 UTC] BLOCK: Importing request 3 ..
+[06-Jul-2023 10:00:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[06-Jul-2023 10:00:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[06-Jul-2023 10:00:18 UTC] BLOCK: Completed request 3
+[06-Jul-2023 10:00:18 UTC] BLOCK: Importing request 4 ..
+[06-Jul-2023 10:00:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[06-Jul-2023 10:00:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[06-Jul-2023 10:00:18 UTC] BLOCK: Completed request 4
+[06-Jul-2023 10:00:18 UTC] SITE: Getting Total Sites
+[06-Jul-2023 10:00:18 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[06-Jul-2023 10:00:18 UTC] SITE: Request count 2
+[06-Jul-2023 10:00:18 UTC] SITE: Importing request 1 ..
+[06-Jul-2023 10:00:18 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[06-Jul-2023 10:00:19 UTC] SITE: Storing in option ast-block-templates-sites-1
+[06-Jul-2023 10:00:19 UTC] SITE: Completed request 1
+[06-Jul-2023 10:00:19 UTC] SITE: Importing request 2 ..
+[06-Jul-2023 10:00:19 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[06-Jul-2023 10:00:19 UTC] SITE: Storing in option ast-block-templates-sites-2
+[06-Jul-2023 10:00:19 UTC] SITE: Completed request 2
+[06-Jul-2023 10:00:19 UTC] Sync process for Gutenberg Blocks is done.
+[06-Jul-2023 10:00:34 UTC] You exceeded your current quota, please check your plan and billing details.
+[06-Jul-2023 10:00:34 UTC] You exceeded your current quota, please check your plan and billing details.
+[06-Jul-2023 10:03:02 UTC] WordPress database error Table 'wp_mwai_chats' already exists for query CREATE TABLE wp_mwai_chats (
+      id BIGINT(20) NOT NULL AUTO_INCREMENT,
+      userId BIGINT(20) NULL,
+      ip VARCHAR(64) NULL,
+      messages TEXT NOT NULL NULL,
+      extra TEXT NOT NULL NULL,
+      botId VARCHAR(64) NULL,
+      chatId VARCHAR(64) NOT NULL,
+      created DATETIME NOT NULL,
+      updated DATETIME NOT NULL,
+      PRIMARY KEY  (id),
+      INDEX chatId (chatId)
+    ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Meow_MWAI_Modules_Discussions->rest_discussions_list, Meow_MWAI_Modules_Discussions->chats_query, Meow_MWAI_Modules_Discussions->check_db, Meow_MWAI_Modules_Discussions->create_db, dbDelta
+[06-Jul-2023 10:05:45 UTC] You exceeded your current quota, please check your plan and billing details.
+[06-Jul-2023 10:05:45 UTC] You exceeded your current quota, please check your plan and billing details.
